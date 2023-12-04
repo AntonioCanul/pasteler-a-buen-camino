@@ -1,0 +1,25 @@
+.forma{
+    list-style-type: none;
+    width: 300px;
+    margin: auto;
+    padding: 15px;
+}
+
+.medida{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 3px;
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+}
+
+div{
+    margin: auto;
+}
+
+h5{
+    font-size: 13px;
+}
